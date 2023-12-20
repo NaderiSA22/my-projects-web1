@@ -1,0 +1,21 @@
+#DELL {
+    width: 100%;
+    height: 400px;
+}
+
+#Playstation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+#PS5 {
+    width: 350PX;
+    height: 350px;
+}
+
+#PS4 {
+    width: 350px;
+    height: 350px;
+}
